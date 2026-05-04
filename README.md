@@ -1,6 +1,6 @@
 # Hi there, I'm Shreyas Nimbalkar 👋
 
-## 🚀 Machine Learning Engineer | Data Scientist | AI Enthusiast
+## 🚀 Artificial Intelligence & Machine Learning Engineer | Data Scientist 
 
 I'm passionate about building intelligent systems and extracting insights from data. Currently exploring the intersection of deep learning and real-world applications.
 
