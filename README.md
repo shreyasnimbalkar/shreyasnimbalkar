@@ -1,17 +1,15 @@
 # Hi, I'm Shreyas
 
 I'm a Computer Engineering grad student at USC who likes AI that has to survive the
-real world. Most of my work sits where machine learning meets hardware: models squeezed
-onto small devices, sensors that need to agree with each other, and software that keeps
-going when something upstream breaks.
+real world. My work sits in two places: machine learning on hardware, with models
+squeezed onto small devices and sensors that need to agree with each other, and LLM
+systems, especially AI agents and RAG (retrieval-augmented generation). I'm interested
+in agents that use tools to actually get tasks done, retrieval that looks up the right
+information instead of guessing, and software that keeps going when something upstream
+breaks.
 
 Before grad school I worked on warehouse safety at RAMS, getting person detection to run
 on tiny camera chips fast enough to stop a forklift in time.
-
-Lately I'm most interested in AI agents and RAG (retrieval-augmented generation):
-agents that use tools and follow rules to actually get tasks done, and systems that
-look up the right information before they answer instead of guessing. I care about
-making them reliable and measuring how well they really work.
 
 ## What I'm building
 
