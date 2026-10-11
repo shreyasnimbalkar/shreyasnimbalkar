@@ -6,8 +6,12 @@ onto small devices, sensors that need to agree with each other, and software tha
 going when something upstream breaks.
 
 Before grad school I worked on warehouse safety at RAMS, getting person detection to run
-on tiny camera chips fast enough to stop a forklift in time. These days I'm spending
-more time on LLM systems and agents.
+on tiny camera chips fast enough to stop a forklift in time.
+
+Lately I'm most interested in AI agents and RAG (retrieval-augmented generation):
+agents that use tools and follow rules to actually get tasks done, and systems that
+look up the right information before they answer instead of guessing. I care about
+making them reliable and measuring how well they really work.
 
 ## What I'm building
 
